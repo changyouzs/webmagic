@@ -8,7 +8,7 @@
 >A scalable crawler framework. It covers the whole lifecycle of crawler: downloading, url management, content extraction and persistent. It can simplify the development of a  specific crawler.
 
 ## Features:
-
+* from changyousz
 * Simple core with high flexibility.
 * Simple API for html extracting.
 * Annotation with POJO to customize a crawler, no configuration.
